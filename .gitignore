@@ -31,7 +31,3 @@ x64
 *.exe
 *.out
 *.app
-
-# Visual Studio
-.vs
-.vscode
